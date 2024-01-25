@@ -25,7 +25,5 @@ Publications
 [A general approach to improve adversarial robustness of DNNs for medical image segmentation and detection](https://spie.org/MI/conferencedetails/medical-image-processing)<br>
 <span style="font-size:4mm;">Linhai Ma, Jiasong Chen, Linchen Qian, Liang Liang </span> <br>
 
-[SymTC: A Symbiotic Transformer-CNN Net for Instance Segmentation of Lumbar Spine MRI](https://arxiv.org/abs/2401.09627)<br>
-<span style="font-size:4mm;">Jiasong Chen, Linchen Qian, Linhai Ma, Timur Urakov, Weiyong Gu, Liang Liang</span> <br>
 
 
