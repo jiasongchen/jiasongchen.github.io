@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a Computer Science Ph.D. student at the University of Miami, fortunately supervised by Prof.[Liang Liang](https://liangbright.wordpress.com/). Our research focuses on developing novel machine-learning algorithms and techniques for medical images analysis. 
 
-My research interests include **machine learning**, **adversarial robustness** and **biomedical image analysis**. I am motivated by the potential of deep learning to significantly improve healthcare by providing more accurate and efficient diagnoses, treatment planning, and disease monitoring.
+My research interests include **machine learning**, **adversarial robustness** and **medical image analysis**. I am motivated by the potential of deep learning to significantly improve healthcare by providing more accurate and efficient diagnoses, treatment planning, and disease monitoring.
 
 Publications
 ======
