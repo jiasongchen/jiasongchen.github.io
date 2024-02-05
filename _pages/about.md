@@ -13,6 +13,10 @@ My research interests include **machine learning**, **adversarial robustness** a
 
 Publications
 ======
+
+[SymTC: A Symbiotic Transformer-CNN Net for Instance Segmentation of Lumbar Spine MRI](https://arxiv.org/abs/2401.09627)<br>
+<span style="font-size:4mm;">Jiasong Chen, Linchen Qian, Linhai Ma, Timur Urakov, Weiyong Gu, Liang Liang </span> <br>
+
 [Adversarial robustness study of convolutional neural network for lumbar disk shape reconstruction from MR images](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11596/1159615/Adversarial-robustness-study-of-convolutional-neural-network-for-lumbar-disk/10.1117/12.2580852.short#_=)<br>
 <span style="font-size:4mm;">Jiasong Chen, Linchen Qian, Timur Urakov, Weiyong Gu, Liang Liang </span> <br>
 
@@ -24,6 +28,5 @@ Publications
 
 [A general approach to improve adversarial robustness of DNNs for medical image segmentation and detection](https://spie.org/MI/conferencedetails/medical-image-processing)<br>
 <span style="font-size:4mm;">Linhai Ma, Jiasong Chen, Linchen Qian, Liang Liang </span> <br>
-
 
 
