@@ -17,8 +17,14 @@ Publications
 [SymTC: A Symbiotic Transformer-CNN Net for Instance Segmentation of Lumbar Spine MRI](https://arxiv.org/abs/2401.09627)<br>
 <span style="font-size:4mm;">Jiasong Chen, Linchen Qian, Linhai Ma, Timur Urakov, Weiyong Gu, Liang Liang </span> <br>
 
+[Attention-based Shape-Deformation Networks for Artifact-Free Geometry Reconstruction of Lumbar Spine from MR Images](https://arxiv.org/abs/2404.00231)<br>
+<span style="font-size:4mm;">Linchen Qian, Jiasong Chen, Linhai Ma, Timur Urakov, Weiyong Gu, Liang Liang </span> <br>
+
 [Adversarial robustness study of convolutional neural network for lumbar disk shape reconstruction from MR images](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11596/1159615/Adversarial-robustness-study-of-convolutional-neural-network-for-lumbar-disk/10.1117/12.2580852.short#_=)<br>
 <span style="font-size:4mm;">Jiasong Chen, Linchen Qian, Timur Urakov, Weiyong Gu, Liang Liang </span> <br>
+
+[A sequential geometry-reconstruction-based deep learning approach to improve accuracy and consistence of lumbar spine MRI image segmentation]([https://arxiv.org/abs/2401.09627](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12926/1292634/A-sequential-geometry-reconstruction-based-deep-learning-approach-to-improve/10.1117/12.3007064.short))<br>
+<span style="font-size:4mm;">Linchen Qian, Jiasong Chen, Linhai Ma, Timur Urakov, Liang Liang </span> <br>
 
 [CQ-VAE: Coordinate quantized VAE for uncertainty estimation with application to disk shape analysis from lumbar spine MRI images](https://ieeexplore.ieee.org/abstract/document/9356321)<br>
 <span style="font-size:4mm;">Linchen Qian, Jiasong Chen, Timur Urakov, Weiyong Gu, Liang Liang </span> <br>
