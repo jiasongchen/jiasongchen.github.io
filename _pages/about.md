@@ -23,7 +23,7 @@ Publications
 [Adversarial robustness study of convolutional neural network for lumbar disk shape reconstruction from MR images](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11596/1159615/Adversarial-robustness-study-of-convolutional-neural-network-for-lumbar-disk/10.1117/12.2580852.short#_=)<br>
 <span style="font-size:4mm;">Jiasong Chen, Linchen Qian, Timur Urakov, Weiyong Gu, Liang Liang </span> <br>
 
-[A sequential geometry-reconstruction-based deep learning approach to improve accuracy and consistence of lumbar spine MRI image segmentation]([https://arxiv.org/abs/2401.09627](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12926/1292634/A-sequential-geometry-reconstruction-based-deep-learning-approach-to-improve/10.1117/12.3007064.short)<br>
+[A sequential geometry-reconstruction-based deep learning approach to improve accuracy and consistence of lumbar spine MRI image segmentation](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12926/1292634/A-sequential-geometry-reconstruction-based-deep-learning-approach-to-improve/10.1117/12.3007064.short)<br>
 <span style="font-size:4mm;">Linchen Qian, Jiasong Chen, Linhai Ma, Timur Urakov, Liang Liang </span> <br>
 
 [CQ-VAE: Coordinate quantized VAE for uncertainty estimation with application to disk shape analysis from lumbar spine MRI images](https://ieeexplore.ieee.org/abstract/document/9356321)<br>
