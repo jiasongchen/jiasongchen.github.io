@@ -14,6 +14,9 @@ My research interests include **machine learning**, **adversarial robustness** a
 Publications
 ======
 
+[A novel attention-based network for geometry reconstruction with error estimation from medical images](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/3038529/A-novel-attention-based-network-for-geometry-reconstruction-with-error/10.1117/12.3038529.short)<br>
+<span style="font-size:4mm;">Linchen Qian, Jiasong Chen, Linhai Ma, Timur Urakov, Weiyong Gu, Liang Liang </span> <br>
+
 [SymTC: A Symbiotic Transformer-CNN Net for Instance Segmentation of Lumbar Spine MRI](https://www.sciencedirect.com/science/article/abs/pii/S0010482524008801)<br>
 <span style="font-size:4mm;">Jiasong Chen, Linchen Qian, Linhai Ma, Timur Urakov, Weiyong Gu, Liang Liang </span> <br>
 
