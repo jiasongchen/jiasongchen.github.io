@@ -13,6 +13,8 @@ My research interests include **machine learning**, **adversarial robustness** a
 
 Publications
 ======
+[Attention-based Shape-Deformation networks for Artifact-Free geometry reconstruction of lumbar spine from MR images](https://ieeexplore.ieee.org/abstract/document/11080083)<br>
+<span style="font-size:4mm;">Linchen Qian, Jiasong Chen, Linhai Ma, Timur Urakov, Weiyong Gu, Liang Liang </span> <br>
 
 [A novel attention-based network for geometry reconstruction with error estimation from medical images](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/3038529/A-novel-attention-based-network-for-geometry-reconstruction-with-error/10.1117/12.3038529.short)<br>
 <span style="font-size:4mm;">Linchen Qian, Jiasong Chen, Linhai Ma, Timur Urakov, Weiyong Gu, Liang Liang </span> <br>
