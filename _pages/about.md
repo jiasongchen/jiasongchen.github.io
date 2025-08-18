@@ -22,6 +22,9 @@ Publications
 [SymTC: A Symbiotic Transformer-CNN Net for Instance Segmentation of Lumbar Spine MRI](https://www.sciencedirect.com/science/article/abs/pii/S0010482524008801)<br>
 <span style="font-size:4mm;">Jiasong Chen, Linchen Qian, Linhai Ma, Timur Urakov, Weiyong Gu, Liang Liang </span> <br>
 
+[A 3D Image Segmentation Study of U-Net on CT Images of the Human Aorta with Morphologically Diverse Anatomy](https://www.biorxiv.org/content/10.1101/2024.10.02.616348v2.abstract)<br>
+<span style="font-size:4mm;">Jiasong Chen, Linchen Qian, Pengce Wang, Christina Sun, Tongran Qin, Asanish Kalyanasundaram, Mohammad Zafar, John Elefteriades, Wei Sun, Liang Liang </span> <br>
+
 [Adversarial robustness study of convolutional neural network for lumbar disk shape reconstruction from MR images](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11596/1159615/Adversarial-robustness-study-of-convolutional-neural-network-for-lumbar-disk/10.1117/12.2580852.short#_=)<br>
 <span style="font-size:4mm;">Jiasong Chen, Linchen Qian, Timur Urakov, Weiyong Gu, Liang Liang </span> <br>
 
