@@ -13,6 +13,9 @@ My research interests include **machine learning**, **medical image analysis** a
 
 Publications
 ======
+[A Computational Pipeline for Patient-Specific Modeling of Thoracic Aortic Aneurysm: From Medical Image to Finite Element Analysis](https://arxiv.org/abs/2509.12596)<br>
+<span style="font-size:4mm;">Jiasong Chen, Linchen Qian, Ruonan Gong, Christina Sun, Tongran Qin, Thuy Pham, Caitlin Martin, Mohammad Zafar, John Elefteriades, Wei Sun, Liang Liang </span> <br>
+
 [Attention-based Shape-Deformation networks for Artifact-Free geometry reconstruction of lumbar spine from MR images](https://ieeexplore.ieee.org/abstract/document/11080083)<br>
 <span style="font-size:4mm;">Linchen Qian, Jiasong Chen, Linhai Ma, Timur Urakov, Weiyong Gu, Liang Liang </span> <br>
 
