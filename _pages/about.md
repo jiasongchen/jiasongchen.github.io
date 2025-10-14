@@ -13,6 +13,9 @@ My research interests include **machine learning**, **medical image analysis** a
 
 Publications
 ======
+[FEAorta: A Fully Automated Framework for Finite Element Analysis of the Aorta From 3D CT Images](https://arxiv.org/abs/2510.06621)<br>
+<span style="font-size:4mm;">Jiasong Chen, Linchen Qian, Ruonan Gong, Christina Sun, Tongran Qin, Thuy Pham, Caitlin Martin, Mohammad Zafar, John Elefteriades, Wei Sun, Liang Liang </span> <br>
+
 [A Computational Pipeline for Patient-Specific Modeling of Thoracic Aortic Aneurysm: From Medical Image to Finite Element Analysis](https://arxiv.org/abs/2509.12596)<br>
 <span style="font-size:4mm;">Jiasong Chen, Linchen Qian, Ruonan Gong, Christina Sun, Tongran Qin, Thuy Pham, Caitlin Martin, Mohammad Zafar, John Elefteriades, Wei Sun, Liang Liang </span> <br>
 
