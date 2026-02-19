@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "About"
+title: "Welcome！"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a Computer Science Ph.D. student at the University of Miami, fortunately supervised by Prof.[Liang Liang](https://liangbright.wordpress.com/). Our research focuses on developing novel machine-learning algorithms and techniques for medical images analysis. 
+Hi there. I'm Jiasong (Jason). I am a Computer Science Ph.D. Candidate at the University of Miami, where I am fortunate to be advised by Prof.[Liang Liang](https://liangbright.wordpress.com/). My research interests lie at the intersection of deep learning, medical imaging, and biomechanical modeling. 
 
-My research interests include **machine learning**, **medical image analysis** and **finite element analysis**. I am motivated by the potential of deep learning to significantly improve healthcare by providing more accurate and efficient diagnoses, treatment planning, and disease monitoring.
+I am particularly motivated by the translational potential of deep learning to improve clinical workflows — enabling more accurate diagnosis, optimized treatment planning, and robust disease monitoring through quantitative and physics-informed modeling. My current research focuses on developing novel machine learning algorithms and computational techniques for medical image analysis.
+
+I expect to complete my Ph.D. in **December 2026** and am actively seeking postdoctoral research opportunities. I am especially interested in positions that integrate machine learning with biomechanical modeling, computational medicine, and clinically oriented research.
 
 Publications
 ======
