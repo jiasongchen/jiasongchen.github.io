@@ -18,8 +18,11 @@ Publications
 [FEAorta: A Fully Automated Framework for Finite Element Analysis of the Aorta From 3D CT Images](https://arxiv.org/abs/2510.06621)<br>
 <span style="font-size:4mm;">Jiasong Chen, Linchen Qian, Ruonan Gong, Christina Sun, Tongran Qin, Thuy Pham, Caitlin Martin, Mohammad Zafar, John Elefteriades, Wei Sun, Liang Liang </span> <br>
 
-[A Computational Pipeline for Patient-Specific Modeling of Thoracic Aortic Aneurysm: From Medical Image to Finite Element Analysis](https://arxiv.org/abs/2509.12596)<br>
+[A Computational Pipeline for Patient-Specific Modeling of Thoracic Aortic Aneurysm: From Medical Image to Finite Element Analysis](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13929/139291B/A-computational-pipeline-for-patientspecific-modeling-of-thoracic-aortic-aneurysm/10.1117/12.3087786.full)<br>
 <span style="font-size:4mm;">Jiasong Chen, Linchen Qian, Ruonan Gong, Christina Sun, Tongran Qin, Thuy Pham, Caitlin Martin, Mohammad Zafar, John Elefteriades, Wei Sun, Liang Liang </span> <br>
+
+[Shape deformation networks for automated aortic valve finite element meshing from 3D CT images](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13929/139291I/Shape-deformation-networks-for-automated-aortic-valve-finite-element-meshing/10.1117/12.3087767.full)<br>
+<span style="font-size:4mm;">Linchen Qian, Jiasong Chen, Ruonan Gong, Wei Sun, Minliang Liu, Liang Liang </span> <br>
 
 [Attention-based Shape-Deformation networks for Artifact-Free geometry reconstruction of lumbar spine from MR images](https://ieeexplore.ieee.org/abstract/document/11080083)<br>
 <span style="font-size:4mm;">Linchen Qian, Jiasong Chen, Linhai Ma, Timur Urakov, Weiyong Gu, Liang Liang </span> <br>
