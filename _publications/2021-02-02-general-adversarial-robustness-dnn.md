@@ -8,7 +8,7 @@ venue: 'SPIE Medical Imaging'
 paperurl: 'https://spie.org/MI/conferencedetails/medical-image-processing'
 citation: 'Ma, L., Chen, J., Qian, L., &amp; Liang, L. (2021). &quot;A general approach to improve adversarial robustness of DNNs for medical image segmentation and detection.&quot; <i>SPIE Medical Imaging</i>.'
 ---
-[Conference details](https://spie.org/MI/conferencedetails/medical-image-processing)
+[Download paper here](https://doi.org/10.1117/12.3006534)
 
 Recommended citation: Ma, L., Chen, J., Qian, L., & Liang, L. (2021). "A general approach to improve adversarial robustness of DNNs for medical image segmentation and detection." SPIE Medical Imaging.
 

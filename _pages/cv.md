@@ -13,6 +13,9 @@ You can also download my CV [here](/files/cv.pdf).
 
 Education
 ======
+
+* B.S. in Mathematics, University of Denver, 2017
+* M.S. in Computer Science, University of Denver, 2019
 * Ph.D in Computer Science, University of Miami, 2026 (expected)
 
 Publications

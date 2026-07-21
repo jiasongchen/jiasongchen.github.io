@@ -48,7 +48,5 @@ Publications
 [An Algorithm for Out-Of-Distribution Attack to Neural Network Encoder](https://arxiv.org/abs/2009.08016)<br>
 <span style="font-size:4mm;">Liang Liang, Linhai Ma, Linchen Qian, Jiasong Chen </span> <br>
 
-[A general approach to improve adversarial robustness of DNNs for medical image segmentation and detection](https://spie.org/MI/conferencedetails/medical-image-processing)<br>
+[A general approach to improve adversarial robustness of DNNs for medical image segmentation and detection](https://doi.org/10.1117/12.3006534)<br>
 <span style="font-size:4mm;">Linhai Ma, Jiasong Chen, Linchen Qian, Liang Liang </span> <br>
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=102&t=n&d=br2L9RLdJu5Sm8ZPSB0T64tvmo0JP_29rfSMutk_W0Q'></script>
